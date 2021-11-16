@@ -1,5 +1,5 @@
 - 🧢 I’m currently working as free software officer for the French governement.
-- 🌱 I’m also maintaining Emacs Org-mode.
+- 🌱 I’m also maintaining [Emacs Org-mode](https://orgmode.org).
 - 🤔 I sometimes write on [my blog](https://bzg.fr/en/). 
 - 🔭 I'm on [SourceHut](https://git.sr.ht/~bzg/) too.
 - 📫 How to reach me: `bzg@bzg.fr`.
