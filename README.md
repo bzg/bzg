@@ -1,4 +1,4 @@
-- 🧢 I’m currently working as free software officer for the french governement.
+- 🧢 I’m currently working as free software officer for the French governement.
 - 🌱 I’m also maintaining Emacs Org-mode.
 - 🤔 I sometimes write on [my blog](https://bzg.fr/en/). 
 - 🔭 I'm on [SourceHut](https://git.sr.ht/~bzg/) too.
