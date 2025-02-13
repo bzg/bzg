@@ -5,5 +5,3 @@
 - 📫 You can send me an email at `bzg@bzg.fr`.
 
 [![bzg's github stats](https://github-readme-stats.vercel.app/api?username=bzg)](https://github.com/bzg/github-readme-stats)
-
-[![img](https://img.shields.io/badge/I'm part of BlueHats-blue.svg)](https://bluehats.global)
