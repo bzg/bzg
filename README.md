@@ -1,4 +1,4 @@
-- 🛠️ I’m the Free Software officer for the French governement.
+- 🛠️ I’m the Free Software officer for [code.gouv.fr](https://code.gouv.fr).
 - 🧢 I co-founded the [#BlueHats](https://bluehats.global) movement. 
 - 🌱 I love [GNU Emacs](https://www.gnu.org/software/emacs/) and [Org-mode](https://orgmode.org).
 - 🤔 I share thoughts on [my blog](https://bzg.fr).
